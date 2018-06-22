@@ -41,7 +41,7 @@
 </form>
 </div>
 
-<div class="adduser">
+<!-- <div class="adduser">
   <form class="addperson" action="welcome.php" method="post">
     <p>Add user</p>
     <input type="text" name="user" value="">
@@ -50,7 +50,7 @@
 
   </form>
 
-</div>
+</div> -->
 
 <?php
 
@@ -162,7 +162,6 @@ if(isset($_GET['listid']) && !$flag1){
 
 
 }
-
 
 
 
