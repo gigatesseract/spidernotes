@@ -1,0 +1,52 @@
+.heading{
+  font-weight: bold;
+  display: block;
+  font-size: 40px;
+  position: relative;
+  left: 35%;
+
+}
+body{
+  background-color: yellow;
+}
+
+.list{
+  font-weight: bold;
+  display: block;
+  font-size: 40px;
+  position: relative;
+  left: 35%;
+
+list-style-type: circle;
+
+}
+.sign{
+  color: green;
+  position: relative;
+  left: 45%;
+  font-size: 20px;
+  font-weight: bold;
+}
+.log{
+  color: violet;
+  position: relative;
+ left: 45%;
+  font-size: 20px;
+  font-weight: bold;
+}
+.username{
+  display: inline;
+
+}
+.log2{
+  color: violet;
+  position: relative;
+ 
+  font-size: 20px;
+  font-weight: bold;
+}
+.loginform{
+  position: relative;
+  left: 45%;
+  color: blue;
+}

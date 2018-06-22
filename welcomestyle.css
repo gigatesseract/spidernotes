@@ -1,0 +1,140 @@
+.form{
+
+  position: relative;
+  left: 15%;
+  display: inline;
+}
+
+.heading{
+  font-weight: bold;
+  display: block;
+  font-size: 40px;
+  position: relative;
+  left: 35%;
+
+}
+
+body{
+  background: yellow;
+}
+
+.field{
+  background-color:  	#FAEBD7;
+  border: 2px solid black;
+  width: 500px;
+  height: 100px;
+
+}
+.addbutton{
+  background-color:  	#00FFFF;
+  border: 2px solid orange;
+  font-weight: bold;
+  font-size: 20px;
+  cursor: pointer;
+  position: relative;
+
+
+
+}
+.check{
+  position: relative;
+  left: 70%;
+
+  top: 20%;
+}
+.checkadd{
+  width: 300px;
+  height: 50px;
+  background-color:  	#00FFFF;
+
+}
+
+.div{
+  position: absolute;
+  left: 15%;
+}
+.error{
+  color: red;
+  position: relative;
+
+  left: 20%;
+}
+
+.time{
+  background-color: green;
+  display: inline-block;
+  color: white;
+  width: 300px;
+  text-align: center;
+}
+.notecontent{
+  border: 10px solid violet;
+  word-wrap: break-word;
+  width: 400px;
+  margin: 50px;
+  padding: 10px;
+}
+.delete{
+  display: inline;
+  color: red;
+  background: #5F9EA0;
+  border: 2px solid black;
+  cursor: pointer;
+  font-size: 25px;
+  position: relative;
+  left: 40%;
+  bottom: 20px;
+
+
+}
+.edit{
+  display: inline;
+  color: blue;
+  background-color: #5F9EA0;
+  border: 2px solid black;
+  cursor: pointer;
+  font-size: 25px;
+  position: relative;
+  top: 12px;
+  left: 10px;
+}
+.listcontent{
+  border: 10px solid blue;
+  word-wrap: break-word;
+  width: 400px;
+  margin: 50px;
+  padding: 10px;
+}
+.listadd{
+  background-color:  	 	#8A2BE2;
+  border: 2px solid orange;
+  font-weight: bold;
+  font-size: 20px;
+  cursor: pointer;
+  position: relative;
+
+}
+.errorlist{
+  position: relative;
+  left: 80%;
+  color: red;
+}
+
+.checkb{
+  background-color: #CD5C5C;
+  color: white;
+  position: relative;
+  border: 2px solid black;
+  cursor: pointer;
+  font-size: 25px;
+}
+.uncheck{
+  background-color: #FFB6C1;
+  color: white;
+  border: 2px solid black;
+  cursor: pointer;
+  position: relative;
+  font-size: 25px;
+  left: 150px;
+  bottom: 32px;
+}
